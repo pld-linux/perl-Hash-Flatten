@@ -8,13 +8,13 @@
 Summary:	Hash::Flatten - flatten/unflatten complex data hashes
 Summary(pl.UTF-8):	Hash::Flatten - wygładź/pomarszcz wartości funkcji skrótu dla złożonych danych
 Name:		perl-Hash-Flatten
-Version:	1.16
+Version:	1.19
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/B/BB/BBC/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	b67a1b1888aee862bd5b7a2987989495
+# Source0-md5:	cc2ffc365858b90192dbb8be52311267
 URL:		http://search.cpan.org/dist/Hash-Flatten/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
